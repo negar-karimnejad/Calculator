@@ -5,4 +5,4 @@
 <img src="image/Screenshot (167).png" height="230px" />
 <img src="image/Screenshot (166).png" height="230px"/>
 </section>
-<h3 align="center"><a href="https://negar-karimnejad.github.io/rock-paper-scissors/" target="_blank">Checkout this Calculator</a></h3>
+<h3 align="center"><a href="https://negar-karimnejad.github.io/Calculator/" target="_blank">Checkout this Calculator</a></h3>
